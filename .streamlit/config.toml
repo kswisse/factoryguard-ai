@@ -1,0 +1,5 @@
+# FactoryGuard AI — local Streamlit config.
+# Offline hardening: disable Streamlit usage-stats phone-home so the demo
+# makes zero external network requests after installation.
+[browser]
+gatherUsageStats = false

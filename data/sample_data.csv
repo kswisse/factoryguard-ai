@@ -1,0 +1,6 @@
+row_name,product_type,air_temperature,process_temperature,rotational_speed,torque,tool_wear,expected_level
+LOW,M,300.0,310.0,1500.0,37.0,30.0,LOW
+WATCH,M,302.0,313.0,1500.0,55.0,210.0,WATCH
+HIGH,M,305.0,317.0,1000.0,60.0,210.0,HIGH
+EDGE_MINIMAL,L,296.0,306.0,1500.0,25.0,0.0,LOW
+EDGE_MAX,H,310.0,322.0,700.0,80.0,250.0,HIGH
